@@ -2220,6 +2220,16 @@
     "author": "rik-chatterjee"
   },
   {
+    "id": "simon-says",
+    "folder": "simon_says",
+    "name": "Simon Says",
+    "blurb": "A console memory game that adds a random color to a sequence each round. Repeat the full sequence in order to increase your score. The game uses on…",
+    "emoji": "🎮",
+    "runnable": true,
+    "hasPlayground": true,
+    "lines": 60
+  },
+  {
     "id": "calc",
     "folder": "Calculator",
     "name": "Simple Calculator",
